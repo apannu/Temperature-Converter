@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vasu Gupta\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Vasu Gupta\Desktop\AndroidStudioProjects\TemperatureConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_bb91e0eff8f08dba7d374ce9351de702564afbcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vasu Gupta\.android\build-cache\289d22aa97efb9030e6769035e21350a500c1c2a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Vasu Gupta\Desktop\AndroidStudioProjects\TemperatureConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c86096f7581a8cf3c0696e393029a4e7e5c6dea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vasu Gupta\.android\build-cache\fcdf28f4794d0885a2f2e738ab6a5dac26405b78\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Vasu Gupta\Desktop\AndroidStudioProjects\TemperatureConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf1b1815702410a98048e51d0310c255af2f9250\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vasu Gupta\.android\build-cache\1574ef59b51565a8e1d40f7be4c25bfcfbad49fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Vasu Gupta\Desktop\AndroidStudioProjects\TemperatureConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5c74c6ddc20481fb493cc993280acfe8ae254819\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vasu Gupta\.android\build-cache\709e8c3ede89964e69b2558754bcf5b8750682e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Vasu Gupta\Desktop\AndroidStudioProjects\TemperatureConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c27efae8980ba5038834bc18f991a9b23d513e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vasu Gupta\.android\build-cache\b70dc028ea9d191ad37cf14fc427c82d88a92144\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Vasu Gupta\Desktop\AndroidStudioProjects\TemperatureConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_443d7da4c0b3eb75bf1e369f73398e9dcdc8a07c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vasu Gupta\.android\build-cache\6d447ec18b1e580b3ce2b4dd6f6118380ee5315a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Vasu Gupta\Desktop\AndroidStudioProjects\TemperatureConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28913b0afdb5972a118614b137aba634d49705be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vasu Gupta\.android\build-cache\fc01b74ed794fedfc70f35bf59236a4a065bc7b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Vasu Gupta\Desktop\AndroidStudioProjects\TemperatureConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae4f3044f66f74cc1f0fee62666d3c945dac8592\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vasu Gupta\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Vasu Gupta\Desktop\AndroidStudioProjects\TemperatureConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_9222588661cec54b9e253a1219cd1a4f524d70b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vasu Gupta\Desktop\AndroidStudioProjects\TemperatureConverter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Vasu Gupta\Desktop\AndroidStudioProjects\TemperatureConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c2aba5a8a8e377da191b7c525e6c4b15e8380a4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vasu Gupta\Desktop\AndroidStudioProjects\TemperatureConverter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="423427fb533e0bbc65ede4f282db235a2e8e77fb">
+        <dex dex="C:\Users\Vasu Gupta\Desktop\AndroidStudioProjects\TemperatureConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_34d4606e6c5ec47d07ed1fd72d6dbfecc3e01b6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vasu Gupta\.android\build-cache\397011e4f98b0dfadff38dbed81742a7ad8eafec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Vasu Gupta\Desktop\AndroidStudioProjects\TemperatureConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_952a5f1b5e2ce2cab4636a54f3d65a7f83b1e0b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vasu Gupta\.android\build-cache\025d586f69034deefa8ae7784bf0b987a4e2c2e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Vasu Gupta\Desktop\AndroidStudioProjects\TemperatureConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7366703e0aadd057a6f8e5f1aec5908a5a68f7db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vasu Gupta\.android\build-cache\2fba812bd630423d8d806708f25b7cbf155b13c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Vasu Gupta\Desktop\AndroidStudioProjects\TemperatureConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_533fb6398b1615f682f0f4fff414927a74ab01af\classes.dex" />
+    </item>
+
+</items>
